@@ -30,12 +30,12 @@ namespace TwitchChatPipe
         private int _port = 6667;
 
         // default nick
-        private string _nick = "OneGameMillionPlayers";
+        private string _nick = "Test";
 
         // default alternate nick
-        private string _altNick = "OneGameMillionPlayers";
+        private string _altNick = "Test2";
 
-        private string _pass = "oauth:csgeevkee25sftywmtgsfgco1pmscq8";
+        private string _pass = "";
 
         // private TcpClient used to talk to the server
         private TcpClient irc;
