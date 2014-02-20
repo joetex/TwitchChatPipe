@@ -3,6 +3,8 @@ TwitchChatPipe (C#)
 
 Pipes the Twitch Chat to a VirtualBox Virtual Machine
 
+Note: This was thrown together quickly and not refactored/optimized. It's bare bones to get you started, it should be easy to add to it.
+
 ==============
 Setup
 ==============
