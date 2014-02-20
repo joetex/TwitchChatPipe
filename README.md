@@ -8,6 +8,7 @@ Setup
 ==============
 
 1) You will need to have VirtualBox installed with a Virtual Machine running.  
+
 2) You will need to reference the VBoxC.dll in your "Program Files/Oracle/VirtualBox" folder for the c# code to compile.
 
 
@@ -15,10 +16,14 @@ Setup
 Usage
 ==============
 
-1) Edit the IRC data, you can have multiple servers seperated by a comma (no spaces)
+1) Edit the IRC data, you can have multiple servers seperated by a comma (no spaces).
+
 2) Hit "Connect", wait about 5 seconds.
-3) Hit "Join Channel", your Twitch Chat Channel is your username, for instance, "#myusername"
+
+3) Hit "Join Channel", your Twitch Chat Channel is your username, for instance, "#myusername".
+
 4) Verify the Virtual Machine Name matches your VirtualBox VM name.
+
 5) Hit "Lock", to begin sending chat commands to virtual box.
 
 Note: You do not have to be streaming for it to work, just go to your channel and start chatting.
